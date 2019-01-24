@@ -1,0 +1,10 @@
+{
+    "files": [
+        [
+            "cr02_lorawan",
+            "cr02_lorawan.py"
+        ]
+    ],
+    "title": "XinaBox CR02-LoRaWAN",
+    "version": "0.5.0"
+}

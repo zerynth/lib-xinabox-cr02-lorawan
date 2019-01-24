@@ -1,1 +1,1 @@
-# lib-xinabox-cr02-lorawan
+# zerynth-cr02-lorawan

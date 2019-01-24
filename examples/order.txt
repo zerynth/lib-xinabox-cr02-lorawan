@@ -1,0 +1,4 @@
+#XinaBox
+    ##CR02-LoRaWAN
+        ttn_temperature
+
